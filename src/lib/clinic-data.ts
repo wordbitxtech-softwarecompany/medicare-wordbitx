@@ -65,8 +65,8 @@ export async function getPublicClinicData() {
 
   const settings = settingsRows[0] ?? {
     id: 1,
-    clinicName: "Medicare Plus Multi-Specialty Clinic",
-    tagline: "Excellence in Specialized Healthcare & Modern Diagnostics",
+    clinicName: "Medicare Plus",
+    tagline: "WordbitX Specialty Care",
     clinicType: "Multi-Specialty",
     phone: "+92 325 1888841",
     emergencyPhone: "+92 325 1888841",
